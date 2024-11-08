@@ -16,7 +16,8 @@ A fun and engaging idle clicker game where you can earn coins, purchase upgrades
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/KoustavDevelops/idle-clicker-game
+cd idle-clicker-game
 ```
 
 2. Open `index.html` in your web browser
